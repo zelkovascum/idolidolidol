@@ -9,5 +9,5 @@
     });
   }
 
-  const showTime=setTimeout(showImage,100);
+  const showTime=setTimeout(showImage,500);
 }
