@@ -419,7 +419,7 @@ a{
 
 img{
   height: 100%;
-  margin: 0 2px;
+  margin: 0 15px;
   opacity: 0;
   transform: translate(0,25px);
   transition: all 0.7s;
